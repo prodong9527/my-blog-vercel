@@ -1,4 +1,4 @@
-import { supabase } from '@/lib/supabase'
+import { supabase } from '../../../lib/supabase'
 import { NextResponse } from 'next/server'
 
 // 获取所有文章
